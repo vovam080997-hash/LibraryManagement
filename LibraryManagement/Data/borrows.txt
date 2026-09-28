@@ -1,0 +1,6 @@
+# BorrowID | UserID | ISBN | ReturnDate | Status
+B201 | 1001 | 978-1 | 2026-09-20 | Approved
+B202 | 1003 | 978-2 | 2026-10-03 | Pending
+B203 | 1003 | 978-3 | 2026-09-16 | Approved
+B204 | 1004 | 978-4 | 2026-10-03 | Pending
+B205 | 1007 | 978-1 | 2026-10-12 | Approved

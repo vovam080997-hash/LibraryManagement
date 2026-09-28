@@ -1,0 +1,8 @@
+# ISBN | Title | Author | Quantity
+978-1 | Clean Code | Robert Martin | 4
+978-2 | Pro Angular | Adam Freeman | 0
+978-3 | The Pragmatic Programmer | Andrew Hunt | 3
+978-4 | C# in Depth | Jon Skeet | 4
+978-5 | Design Patterns | Erich Gamma | 2
+978-6 | Introduction to Algorithms | Thomas Cormen | 3
+978-7 | Head First C# | Andrew Stellman | 6
